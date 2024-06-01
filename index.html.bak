@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Diadent Dr Diana Busoi Timisoara</title>
+    <meta
+      name="description"
+      content="Diadent - Zâmbetul pe care îl meriți, îngrijirea pe care o aștepți"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="assets/img/favicon.ico"
+    />
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- ========================= CSS here ========================= -->
+    <link rel="stylesheet" href="assets/css/bootstrap-5.0.5-alpha.min.css" />
+    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
+    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/selectr.css" />
+    <link rel="stylesheet" href="assets/css/date.css" />
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha384-GLhlTQ8iK9tGRU8F+aaDY5R5Z2I5B+HUV/KD4u” crossorigin=”anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofGJlT3uXf5tOtJLbC3ARb98+5iB4Q6jz"
+      crossorigin="anonymous"
+    />
+  </head>
+
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <!-- ========================= preloader start ========================= -->
+    <div class="preloader">
+      <div class="loader">
+        <div class="ytp-spinner">
+          <div class="ytp-spinner-container">
+            <div class="ytp-spinner-rotator">
+              <div class="ytp-spinner-left">
+                <div class="ytp-spinner-circle"></div>
+              </div>
+              <div class="ytp-spinner-right">
+                <div class="ytp-spinner-circle"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- preloader end -->
+
+    <!-- ========================= header start ========================= -->
+    <header id="home" class="header">
+      <div class="header-wrapper">
+        <div class="header-top theme-bg">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8">
+                <div class="header-top-left text-center text-md-left">
+                  <ul>
+                    <li>
+                      <a href="#"><i class="lni lni-phone"></i> 0356 003 170</a>
+                    </li>
+                    <li>
+                      <a href="#"
+                        ><i class="lni lni-envelope"></i> diadent@gmail.com</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="header-top-right d-none d-md-block">
+                  <ul>
+                    <li>
+                      <a href="#"><i class="lni lni-facebook-filled"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="lni lni-twitter-filled"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="lni lni-linkedin-original"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="navbar-area">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <nav class="navbar navbar-expand-lg">
+                  <a class="navbar-brand" href="index.html">
+                    <img src="assets/img/logo/logo.svg" alt="Logo" />
+                  </a>
+                  <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                  >
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                  </button>
+
+                  <div
+                    class="collapse navbar-collapse sub-menu-bar"
+                    id="navbarSupportedContent"
+                  >
+                    <ul id="nav" class="navbar-nav ml-auto">
+                      <li class="nav-item active">
+                        <a class="page-scroll active" href="#home">Acasă</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="page-scroll" href="#about">Despre</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="page-scroll" href="#services">Servicii</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="page-scroll" href="#team">Medici</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="page-scroll" href="#blog">Tehnologii</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="page-scroll" href="#contact">Contact</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- navbar collapse -->
+                </nav>
+                <!-- navbar -->
+              </div>
+            </div>
+            <!-- row -->
+          </div>
+          <!-- container -->
+        </div>
+        <!-- navbar area -->
+      </div>
+
+      <div class="slider-wrapper">
+        <!-- ========================= slider-section start ========================= -->
+        <section class="slider-section">
+          <div class="slider-active slick-style">
+            <div
+              class="single-slider img-bg"
+              style="background-image: url('assets/img/slider/slider-1.png')"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-xl-7 col-lg-8 col-md-10">
+                    <div class="slider-content">
+                      <h1
+                        data-animation="fadeInDown"
+                        data-duration="1.5s"
+                        data-delay=".5s"
+                      >
+                        Investește în tine, investește în zâmbetul tău.
+                      </h1>
+                      <p
+                        data-animation="fadeInLeft"
+                        data-duration="1.5s"
+                        data-delay=".7s"
+                      >
+                        Suntem o echipă tânără ce își dorește să redescopere frumusețea zâmbetului pacienților noștri. Pentru noi, zâmbetul pacientului este o prioritate.
+                      </p>
+                      <a
+                        href="#about"
+                        class="btn theme-btn page-scroll"
+                        data-animation="fadeInUp"
+                        data-duration="1.5s"
+                        data-delay=".9s"
+                        >Află mai multe despre noi</a
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="single-slider img-bg"
+              style="background-image: url('assets/img/slider/slider-2.png')"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-xl-7 col-lg-8 col-md-10">
+                    <div class="slider-content">
+                      <h1
+                        data-animation="fadeInDown"
+                        data-duration="1.5s"
+                        data-delay=".5s"
+                      >
+                        Medici profesionisti și devotați
+                      </h1>
+                      <p
+                        data-animation="fadeInLeft"
+                        data-duration="1.5s"
+                        data-delay=".7s"
+                      >
+                        Profesionalismul este virtutea cabinetului nostru,
+                        pentru că atât fiziologic cât și estetic, dantura este o
+                        prioritate.
+                      </p>
+                      <a
+                        href="#contact"
+                        class="btn theme-btn page-scroll"
+                        data-animation="fadeInUp"
+                        data-duration="1.5s"
+                        data-delay=".9s"
+                        >Programează o consultație</a
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="single-slider img-bg"
+              style="background-image: url('assets/img/slider/slider-3.png')"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-xl-7 col-lg-8 col-md-10">
+                    <div class="slider-content">
+                      <h1
+                        data-animation="fadeInDown"
+                        data-duration="1.5s"
+                        data-delay=".5s"
+                      >
+                        Inovație și Abordări moderne
+                      </h1>
+                      <p
+                        data-animation="fadeInLeft"
+                        data-duration="1.5s"
+                        data-delay=".7s"
+                      >
+                        Investim în tehnologie pentru a crește confortul pacienților și reușita tratamentelor.
+                      </p>
+                      <a
+                        href="#services"
+                        class="btn theme-btn page-scroll"
+                        data-animation="fadeInUp"
+                        data-duration="1.5s"
+                        data-delay=".9s"
+                        >Serviciile noastre</a
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- ========================= slider-section end ========================= -->
+      </div>
+    </header>
+    <!-- ========================= header end ========================= -->
+
+    <!-- ========================= about-section start ========================= -->
+    <section id="about" class="about-section pt-120">
+      <div class="shape shape-2">
+        <img src="assets/img/shapes/shape-2.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-10 col-lg-11 mx-auto">
+            <div class="about-content text-center mb-55">
+              <div class="section-title mb-30">
+                <span class="wow fadeInDown" data-wow-delay=".2s"
+                  >Despre noi</span
+                >
+                <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">
+                  Bine ați venit la Cabinetul DIADENT
+                </h2>
+              </div>
+              <p class="mb-35 wow fadeInUp" data-wow-delay=".6s">
+                Cu o experiență vastă de peste 20 de ani, suntem mândri să fim alegerea de încredere pentru sănătatea și frumusețea zâmbetului dumneavoastră.
+                <br /><br />
+                Echipa noastră de specialiști este aici pentru a vă oferi soluții complete pentru orice problemă dentară.
+                <br /><br />
+                Suntem aici nu doar pentru a vă îmbunătăți sănătatea orală, ci și pentru a vă transforma zâmbetul într-o operă de artă.
+              </p>
+              <a
+                href="#"
+                class="btn theme-btn wow fadeInUp"
+                data-wow-delay=".8s"
+                >Acasă</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="about-img text-center">
+        <img src="assets/img/about/about-img.png" alt="" />
+      </div>
+    </section>
+    <!-- ========================= about-section end ========================= -->
+
+    <!--========================= service-section start ========================= -->
+    <section id="services" class="service-section pt-150">
+      <div class="shape shape-3">
+        <img src="assets/img/shapes/shape-3.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-8 mx-auto">
+            <div class="section-title text-center mb-55">
+              <span class="wow fadeInDown" data-wow-delay=".2s">Servicii</span>
+              <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">
+                În clinica noastră găsiți toate specializările pentru îngrijirea
+                dentară
+              </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">
+                Suntem dedicati să vă oferim experiența completă în îngrijirea
+                dentară, reunind expertiza noastră într-un mediu modern și
+                prietenos
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Endodoția și Odontologia</h4>
+                <p>
+                  Endodonția se ocupă cu tratamentul radicular si obturatia canalelor  radiculare in cazul in care pulpa dintelui e afectata ireversibil. Odontologia trateaza leziunile carioase si necarioase (fracturi, distrofii, uzuri ) ale dintilor.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Profilaxia si Stomatologia estetica</h4>
+                <p>
+                  Profilaxia este acea ramura a stomatologiei care se ocupă cu prevenirea îmbolnăvirilor dentare, iar stomatologia estetica este cea care va  va reda zambetul de vis.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Ortodonția</h4>
+                <p>
+                  Ortodonția corecteaza malpozitiile si inghesuirile dentare. Ea mai poarta numele si de ortopedie dento-faciala.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Protetica dentară</h4>
+                <p>
+                  Parodontologia se ocupa cu preventia, diagnosticul si tratamentul bolilor parodontale si a periimplantitelor.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Parodontologia</h4>
+                <p>
+                  Parodontologia se ocupa cu preventia, diagnosticul si
+                  tratamentul bolilor parodontale si periimplantitelor.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="service-item mb-30">
+              <div class="service-icon mb-25">
+                <svg
+                  id="noun_dental_care_2692540"
+                  data-name="noun_dental care_2692540"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="70.285"
+                  height="58.102"
+                  viewBox="0 0 70.285 58.102"
+                >
+                  <g id="Group_156" data-name="Group 156">
+                    <path
+                      id="Path_84"
+                      data-name="Path 84"
+                      d="M17.336,17C14.2,22.319,7.223,26.405,0,27.04c0,13.45,3.61,28.3,17.337,32.13C31.061,55.34,34.674,40.489,34.674,27.04,27.373,25.929,20.467,22.319,17.336,17Zm0,37.576c-8.564-2.144-13-15.642-13-24.21,3.65-.224,10.44-2.565,13-7.149,2.561,4.584,9.352,6.925,13,7.149C30.338,38.934,25.9,52.432,17.337,54.576Zm2.144-17.593V32.655h-4.33v4.329h-4.33v4.33h4.33v4.33h4.33v-4.33h4.33v-4.33Z"
+                      transform="translate(0 -1.069)"
+                      fill="#393e46"
+                    />
+                    <path
+                      id="Path_85"
+                      data-name="Path 85"
+                      d="M72.777,7.735a7.668,7.668,0,0,0-2.063-5.6A7.393,7.393,0,0,0,66.72.127,8.515,8.515,0,0,0,65.246,0c-3.365.066-5.6,1.62-9.029,1.58C52.784,1.62,50.545.066,47.185,0a8.411,8.411,0,0,0-1.476.126,7.4,7.4,0,0,0-3.994,2.011,7.667,7.667,0,0,0-2.065,5.6A19.9,19.9,0,0,0,44,20.6a21.726,21.726,0,0,0-.974,6.388,17.447,17.447,0,0,0,1.408,7.128,8.114,8.114,0,0,0,1.477,2.28,3.178,3.178,0,0,0,2.136,1.085v0h.06l.078,0A2.689,2.689,0,0,0,50.2,36.391a11.413,11.413,0,0,0,1.632-3.6c.652-2.094,1.256-4.552,2.039-6.379a7.347,7.347,0,0,1,1.236-2.087,1.47,1.47,0,0,1,1.107-.573c.538-.008,1.086.351,1.761,1.486a35.937,35.937,0,0,1,2.431,6.94A19.3,19.3,0,0,0,61.652,35.5a4.76,4.76,0,0,0,.947,1.289,2.508,2.508,0,0,0,1.652.7H64.3A3.164,3.164,0,0,0,66.519,36.4c1.664-1.776,2.854-5.148,2.886-9.41a21.74,21.74,0,0,0-.974-6.387A19.876,19.876,0,0,0,72.777,7.735ZM65.619,33.029a5.612,5.612,0,0,1-.982,1.551,1.632,1.632,0,0,1-.305.255,6.733,6.733,0,0,1-.978-2.028c-.664-1.912-1.28-4.633-2.2-6.964A10.906,10.906,0,0,0,59.382,22.7a4.163,4.163,0,0,0-3.167-1.568h0a4.787,4.787,0,0,0-4.026,2.79c-1.262,2.2-1.954,5.131-2.675,7.507a17.169,17.169,0,0,1-1.048,2.844,2.546,2.546,0,0,1-.376.561,2.072,2.072,0,0,1-.474-.45c-.927-1.091-2-3.925-1.977-7.4A19.133,19.133,0,0,1,46.7,20.754a1.3,1.3,0,0,0-.236-1.273A17.2,17.2,0,0,1,42.268,7.737a5.021,5.021,0,0,1,1.3-3.753,4.794,4.794,0,0,1,2.587-1.277,5.972,5.972,0,0,1,1.028-.09c2.294-.066,4.822,1.541,9.031,1.58,4.206-.039,6.731-1.646,9.029-1.58a6.188,6.188,0,0,1,1.026.088,4.789,4.789,0,0,1,2.586,1.279,5.021,5.021,0,0,1,1.3,3.753,17.2,17.2,0,0,1-4.194,11.744,1.312,1.312,0,0,0-.239,1.273,19.049,19.049,0,0,1,1.06,6.236A14.968,14.968,0,0,1,65.619,33.029Z"
+                      transform="translate(-2.493 0)"
+                      fill="#00adb5"
+                    />
+                  </g>
+                </svg>
+              </div>
+              <div class="service-content">
+                <h4>Chirurgia orală și Implantologia</h4>
+                <p>
+                  Prin chirurgie orală înțelegem tratamentul chirurgical al afecțiunilor dento-parodontale. O ramură a chirurgiei orale este și implantologia, care se ocupă cu inserarea implantelor în oasele maxilare.
+                </p>
+              </div>
+              <div class="service-overlay img-bg"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--========================= service-section end ========================= -->
+
+    <!-- ========================= testimonial-section start ========================= -->
+    <section class="testimonial-section pt-120 pb-150">
+      <div class="shape shape-4">
+        <img src="assets/img/shapes/shape-4.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 mx-auto">
+            <div class="section-title text-center mb-25">
+              <span class="wow fadeInDown" data-wow-delay=".2s"
+                >Testimonial</span
+              >
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">
+                Ce spun pacienții nostri
+              </h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xl-7 col-lg-9 mx-auto">
+            <div id="customize_wrapper">
+              <div class="customize testimonial-active" id="customize">
+                <div class="single-testimonial">
+                  <div class="quote-icon">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="111.704"
+                      height="83.778"
+                      viewBox="0 0 111.704 83.778"
+                    >
+                      <path
+                        id="Icon_open-double-quote-sans-left"
+                        data-name="Icon open-double-quote-sans-left"
+                        d="M0,0V83.778L41.889,41.889V0ZM69.815,0V83.778L111.7,41.889V0Z"
+                        fill="#00adb5"
+                        opacity="0.32"
+                      />
+                    </svg>
+                  </div>
+                  <div class="testimonial-content">
+                    <p>
+                      O recomand pe d-na doctor din toata inima, un stomatolog
+                      de nota maxima, plăcută si desăvârșită!
+                    </p>
+                  </div>
+                  <div class="testimonial-info">
+                    <h5>Mia Dogariu</h5>
+                    <span>Pacient Diadent</span>
+                  </div>
+                </div>
+                <div class="single-testimonial">
+                  <div class="quote-icon">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="111.704"
+                      height="83.778"
+                      viewBox="0 0 111.704 83.778"
+                    >
+                      <path
+                        id="Icon_open-double-quote-sans-left1"
+                        data-name="Icon open-double-quote-sans-left"
+                        d="M0,0V83.778L41.889,41.889V0ZM69.815,0V83.778L111.7,41.889V0Z"
+                        fill="#00adb5"
+                        opacity="0.32"
+                      />
+                    </svg>
+                  </div>
+                  <div class="testimonial-content">
+                    <p>
+                      Extrem de curat. D-na Doctor are o mana de aur. Recomand
+                      cu caldura.
+                    </p>
+                  </div>
+                  <div class="testimonial-info">
+                    <h5>Nicu</h5>
+                    <span>Pacient Diadent</span>
+                  </div>
+                </div>
+                <div class="single-testimonial">
+                  <div class="quote-icon">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="111.704"
+                      height="83.778"
+                      viewBox="0 0 111.704 83.778"
+                    >
+                      <path
+                        id="Icon_open-double-quote-sans-left2"
+                        data-name="Icon open-double-quote-sans-left"
+                        d="M0,0V83.778L41.889,41.889V0ZM69.815,0V83.778L111.7,41.889V0Z"
+                        fill="#00adb5"
+                        opacity="0.32"
+                      />
+                    </svg>
+                  </div>
+                  <div class="testimonial-content">
+                    <p>
+                      Profesionisti, care-si continua permanent perfectionarea
+                      spre a fi la curent cu tot ce apare nou in domeniu.
+                      Recomand cu caldura, apelati la serviciile DIADENT cu
+                      toata increderea
+                    </p>
+                  </div>
+                  <div class="testimonial-info">
+                    <h5>Petre Pompilia</h5>
+                    <span>Pacient Diadent</span>
+                  </div>
+                </div>
+                <div class="single-testimonial">
+                  <div class="quote-icon">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="111.704"
+                      height="83.778"
+                      viewBox="0 0 111.704 83.778"
+                    >
+                      <path
+                        id="Icon_open-double-quote-sans-left3"
+                        data-name="Icon open-double-quote-sans-left"
+                        d="M0,0V83.778L41.889,41.889V0ZM69.815,0V83.778L111.7,41.889V0Z"
+                        fill="#00adb5"
+                        opacity="0.32"
+                      />
+                    </svg>
+                  </div>
+                  <div class="testimonial-content">
+                    <p>
+						Doamna Dr. Bușoi emana profesionalism și pasiune pentru ceea ce face. M-a impresionat profund atenția ei la detalii și modul în care a luat timp să asculte toate întrebările mele și să ofere răspunsuri clare și complete. Mi-a oferit nu doar un tratament stomatologic excelent, avand o mana atat de fina in lucru, ci și o experiență educațională, în care am învățat mai multe despre îngrijirea dentară și prevenție.
+                    </p>
+                  </div>
+                  <div class="testimonial-info">
+                    <h5>Bianca Blajovan</h5>
+                    <span>Pacient Diadent</span>
+                  </div>
+                </div>
+
+              </div>
+              <div class="customize-tools">
+                <ul
+                  class="thumbnails d-flex justify-content-center"
+                  id="customize-thumbnails"
+                >
+                  <li class="testimonial-img">
+                    <img
+                      src="assets/img/testimonial/man.png"
+                      alt=""
+                    />
+                  </li>
+                  <li class="testimonial-img">
+                    <img
+                      src="assets/img/testimonial/girl.png"
+                      alt=""
+                    />
+                  </li>
+                  <li class="testimonial-img">
+                    <img
+                      src="assets/img/testimonial/girl.png"
+                      alt=""
+                    />
+                  </li>
+                  <li class="testimonial-img">
+                    <img
+                      src="assets/img/testimonial/man.png"
+                      alt=""
+                    />
+                  </li>
+                  <li class="testimonial-img">
+                    <img
+                      src="assets/img/testimonial/man.png"
+                      alt=""
+                    />
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ========================= testimonial-section end ========================= -->
+
+    <!--========================= faq-section start ========================= -->
+    <section class="faq-section theme-bg">
+<div class="faq-video-wrapper">
+  <div class="faq-video">
+    <video width="100%" controls poster="assets/img/faq/cover2.png">
+       <source src="assets/videos/local.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+		  
+      <div class="shape">
+        <img src="assets/img/shapes/shape-8.svg" alt="" class="shape-faq" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6 offset-xl-6 col-lg-8 col-md-10">
+            <div class="faq-content-wrapper pt-90 pb-90">
+              <div class="section-title">
+                <span class="text-white wow fadeInDown" data-wow-delay=".2s"
+                  >Întrebări frecvente</span
+                >
+                <h2 class="text-white mb-35 wow fadeInUp" data-wow-delay=".4s">
+                  Primește răspunsul la întrebările tale
+                </h2>
+              </div>
+              <div class="faq-wrapper accordion" id="accordionExample">
+                <div class="faq-item mb-20">
+                  <div id="headingOne">
+                    <h5 class="mb-0">
+                      <button
+                        class="faq-btn btn"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapseOne"
+                        aria-expanded="true"
+                        aria-controls="collapseOne"
+                      >
+                        Ce înseamnă albirea dentară? Cine poate beneficia de
+                        albirea dentară?
+                        <i class="lni"></i>
+                      </button>
+                    </h5>
+                  </div>
+
+                  <div
+                    id="collapseOne"
+                    class="collapse show"
+                    aria-labelledby="headingOne"
+                    data-parent="#accordionExample"
+                  >
+                    <div class="faq-content">
+                      Albirea dentară reprezintă un tratament cosmetic ce
+                      implică îndepărtarea petelor și decolorării din smalțul
+                      dentar. Beneficiază de acest procedeu persoanele cu dinți
+                      sănătoși, dar afectați de pete sau decolorare.
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-item mb-20">
+                  <div id="headingTwo">
+                    <h5 class="mb-0">
+                      <button
+                        class="faq-btn btn collapsed"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapseTwo"
+                        aria-expanded="true"
+                        aria-controls="collapseTwo"
+                      >
+                        De ce îmi sângerează gingiile? <i class="lni"></i>
+                      </button>
+                    </h5>
+                  </div>
+
+                  <div
+                    id="collapseTwo"
+                    class="collapse"
+                    aria-labelledby="headingTwo"
+                    data-parent="#accordionExample"
+                  >
+                    <div class="faq-content">
+                      Sângerarea gingiilor poate fi cauzată de igiena orală
+                      precară, gingivită sau alte afecțiuni. Este important să
+                      consulți un dentist pentru evaluare și tratament adecvat.
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-item mb-20">
+                  <div id="headingThree">
+                    <h5 class="mb-0">
+                      <button
+                        class="faq-btn btn collapsed"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapseThree"
+                        aria-expanded="true"
+                        aria-controls="collapseThree"
+                      >
+                        Este dureros tratamentul stomatologic?
+                        <i class="lni"></i>
+                      </button>
+                    </h5>
+                  </div>
+
+                  <div
+                    id="collapseThree"
+                    class="collapse"
+                    aria-labelledby="headingThree"
+                    data-parent="#accordionExample"
+                  >
+                    <div class="faq-content">
+                      Majoritatea tratamentelor stomatologice moderne sunt
+                      efectuate cu ajutorul anesteziei, reducând disconfortul.
+                      Dentistul tău va discuta întotdeauna opțiunile de
+                      gestionare a durerii înainte de orice procedură.
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-item">
+                  <div id="headingFour">
+                    <h5 class="mb-0">
+                      <button
+                        class="faq-btn btn collapsed"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapseFour"
+                        aria-expanded="true"
+                        aria-controls="collapseFour"
+                      >
+                        Cât de des trebuie să merg la stomatolog?
+                        <i class="lni"></i>
+                      </button>
+                    </h5>
+                  </div>
+
+                  <div
+                    id="collapseFour"
+                    class="collapse"
+                    aria-labelledby="headingFour"
+                    data-parent="#accordionExample"
+                  >
+                    <div class="faq-content">
+                      Recomandăm vizitele la stomatolog cel puțin de două ori pe
+                      an pentru o examinare de rutină și curățare profesională.
+                      Frecvența poate varia în funcție de nevoile individuale și
+                      recomandările dentistului.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--========================= faq-section end ========================= -->
+
+    <!-- ========================= team-section start ========================= -->
+    <section id="team" class="team-section pt-150 pb-150">
+      <div class="shape shape-5">
+        <img src="assets/img/shapes/shape-2.svg" alt="" />
+      </div>
+      <div class="shape shape-6">
+        <img src="assets/img/shapes/shape-5.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-8 mx-auto">
+            <div class="section-title text-center mb-55">
+              <span class="wow fadeInDown" data-wow-delay=".2s"
+                >Echipa noastră</span
+              >
+              <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">
+                Cunoaște medicii din echipa Diadent
+              </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">
+                În spatele fiecărui zâmbet strălucitor stă o echipă dedicată de
+                profesioniști în stomatologie. Descoperă medicii noștri -
+                experți în sănătate orală, pasionați de frumusețea zâmbetelor și
+                devotați oferirii celei mai bune îngrijiri dentare personalizate
+                pentru tine și familia ta
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="team-slider-wrapper">
+          <div class="row team-active">
+            <div class="col-xl-3 col-lg-3">
+              <div class="single-team text-center mb-85">
+                <div class="team-img mb-50">
+                  <img src="assets/img/team/team-1.png" alt="" />
+                  <div class="specialist">
+                    <i class="fas fa-tooth" style="color: white"></i>
+                  </div>
+                </div>
+                <div class="team-info">
+                  <h5><a href="#">Dr. Bușoi Diana</a></h5>
+                  <span>Medic Stomatolog</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-3">
+              <div class="single-team text-center mb-85">
+                <div class="team-img mb-50">
+                  <img src="assets/img/team/team-2.png" alt="" />
+                  <div class="specialist">
+                    <i class="fas fa-tooth" style="color: white"></i>
+                  </div>
+                </div>
+                <div class="team-info">
+                  <h5><a href="#">Dr/ Bușoi Cristina</a></h5>
+                  <span>Medic Stomatolog</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-3">
+              <div class="single-team text-center mb-85">
+                <div class="team-img mb-50">
+                  <img src="assets/img/team/team-3.png" alt="" />
+                  <div class="specialist">
+                    <i class="fas fa-tooth" style="color: white"></i>
+                  </div>
+                </div>
+                <div class="team-info">
+                  <h5><a href="#">Dr. Nume</a></h5>
+                  <span>Medic Stomatolog</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-3">
+              <div class="single-team text-center mb-85">
+                <div class="team-img mb-50">
+                  <img src="assets/img/team/team-4.png" alt="" />
+                  <div class="specialist">
+                    <i class="fas fa-tooth" style="color: white"></i>
+                  </div>
+                </div>
+                <div class="team-info">
+                  <h5><a href="#">Dr. Name</a></h5>
+                  <span>Asistenta</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-3">
+              <div class="single-team text-center mb-85">
+                <div class="team-img mb-50">
+                  <img src="assets/img/team/team-3.png" alt="" />
+                  <div class="specialist">
+                    <i class="fas fa-tooth" style="color: white"></i>
+                  </div>
+                </div>
+                <div class="team-info">
+                  <h5><a href="#">As. Name</a></h5>
+                  <span>Asistentă</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ========================= team-section end ========================= -->
+
+    <!-- ========================= blog-section start ========================= -->
+    <section id="blog" class="blog-section pt-150">
+      <div class="shape shape-7">
+        <img src="assets/img/shapes/shape-6.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-8 mx-auto">
+            <div class="section-title text-center mb-55">
+              <span class="wow fadeInDown" data-wow-delay=".2s"
+                >Tehnologii</span
+              >
+              <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">
+                Latest News
+              </h2>
+              <p class="wow fadeInUp" data-wow-delay=".4s">
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                dinonumy <br class="d-none d-lg-block" />
+                eirmod tempor invidunt ut labore et dolore magn.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="single-blog mb-30 wow fadeInUp" data-wow-delay=".2s">
+              <div class="blog-img">
+                <a href="#"><img src="assets/img/blog/blog-1.png" alt="" /></a>
+              </div>
+              <div class="blog-content">
+                <h4><a href="#">250+ Medical Tips We Just Had to Share</a></h4>
+                <p>
+                  Lorem ipsum dolor sirtewt amertse consetetur sadipscing elitr,
+                  sedqw dinoumy eirmod tempor invidunt sedrsu.
+                </p>
+                <a class="read-more" href="#"
+                  >Read More <i class="lni lni-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="single-blog mb-30 wow fadeInUp" data-wow-delay=".4s">
+              <div class="blog-img">
+                <a href="#"><img src="assets/img/blog/blog-2.png" alt="" /></a>
+              </div>
+              <div class="blog-content">
+                <h4><a href="#">100+ Medical Tips We Just Had to Share</a></h4>
+                <p>
+                  Lorem ipsum dolor sirtewt amertse consetetur sadipscing elitr,
+                  sedqw dinoumy eirmod tempor invidunt sedrsu.
+                </p>
+                <a class="read-more" href="#"
+                  >Read More <i class="lni lni-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="single-blog mb-30 wow fadeInUp" data-wow-delay=".6s">
+              <div class="blog-img">
+                <a href="#"><img src="assets/img/blog/blog-3.png" alt="" /></a>
+              </div>
+              <div class="blog-content">
+                <h4><a href="#">250+ Medical Tips We Just Had to Share</a></h4>
+                <p>
+                  Lorem ipsum dolor sirtewt amertse consetetur sadipscing elitr,
+                  sedqw dinoumy eirmod tempor invidunt sedrsu.
+                </p>
+                <a class="read-more" href="#"
+                  >Read More <i class="lni lni-arrow-right"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ========================= blog-section end ========================= -->
+
+    <!-- ========================= contact-section start ========================= -->
+    <section id="contact" class="contact-section pt-120 pb-160">
+      <div class="shape shape-7">
+        <img src="assets/img/shapes/shape-7.svg" alt="" />
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-8 mx-auto">
+            <div class="section-title text-center mb-55">
+              <span class="wow fadeInDown" data-wow-delay=".2s"
+                >Programare</span
+              >
+              <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">
+                Solicită o programare acum
+              </h2>
+              <p class="wow fadeInLeft" data-wow-delay=".6s">
+                Suntem bucuroși să vă oferim posibilitatea de a solicita
+                programarea la clinica noastră. Completați formularul de mai jos
+                cu detaliile dvs. și vă vom contacta în cel mai scurt timp cu
+                disponibilitățile noastre. Asigurați-vă că ați inclus informații
+                corecte pentru a vă oferi un serviciu eficient și personalizat
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xl-12">
+            <div class="contact-form">
+              <form
+                action="assets/contact.php"
+                method="POST"
+                id="contact-form"
+                class="contact-form"
+              >
+                <div class="row">
+                  <div class="col-md-6">
+                    <input
+                      type="text"
+                      id="name"
+                      name="name"
+                      placeholder="Nume"
+                      required
+                    />
+                  </div>
+                  <div class="col-md-6">
+                    <input
+                      type="email"
+                      id="email"
+                      name="email"
+                      placeholder="Email"
+                      required
+                    />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <select name="doctor" id="doctor">
+                      <option value="">Selectează un doctor</option>
+                      <option value="">Dr. Diana Bușoi</option>
+                      <option value="">Dr. Nume</option>
+                      <option value="">Dr. Nume</option>
+                    </select>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="single-form">
+                      <input
+                        type="text"
+                        id="input_date"
+                        name="input_date"
+                        placeholder="Data solicitată"
+                        required
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <input
+                      type="text"
+                      name="subject"
+                      id="subject"
+                      placeholder="Subiect"
+                      required
+                    />
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <textarea
+                      name="message"
+                      id="message"
+                      rows="5"
+                      placeholder="Detalii programare"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xl-12">
+                    <button type="submit" class="btn theme-btn">
+                      Solicită Programare
+                    </button>
+                  </div>
+                </div>
+              </form>
+              <p class="form-message pt-15"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ========================= contact-section end ========================= -->
+
+    <!-- ========================= footer start ========================= -->
+    <footer
+      class="footer pt-100 img-bg"
+      style="background-image: url('assets/img/bg/footer-bg.jpg')"
+    >
+      <div class="container">
+        <div class="footer-widget-wrapper">
+          <div class="row">
+            <div>
+              <div class="col-xl-4 col-lg-12 col-md-7">
+                <h4>Contact</h4>
+				<br></br>
+                <p>
+                  <i class="fas fa-phone-alt"></i>
+                  <span class="telefon">07171661616</span>
+                </p>
+                <p>
+                  <i class="far fa-envelope"></i> Email:
+                  <span class="telefon">aaaa@gaggasg.com</span>
+                </p>
+                <p><i class="fas fa-map-marker-alt"></i> Adresă: [Adresă]</p>
+                <p>
+                  <i class="far fa-calendar-alt"></i> Program L-V: [Program]
+                </p>
+              </div>
+<br></br>
+              <div class="footer-widget mb-30">
+                <div class="footer-social-links">
+                  <ul>
+                    <li>
+                      <a href="#"><i class="lni lni-facebook-filled"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="lni lni-twitter-filled"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="lni lni-linkedin-original"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="lni lni-instagram-original"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="copyright-area">
+          <p class="mb-0 text-center">Diadent Dr. Diana Bușoi</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ========================= footer end ========================= -->
+
+    <!-- ========================= scroll-top ========================= -->
+    <a href="#" class="scroll-top">
+      <i class="lni lni-arrow-up"></i>
+    </a>
+
+    <!-- ========================= JS here ========================= -->
+    <script src="assets/js/bootstrap.bundle-5.0.0.alpha-min.js"></script>
+    <script src="assets/js/contact-form.js"></script>
+    <script src="assets/js/selectr.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/date.js"></script>
+    <script src="assets/js/tiny-slider.js"></script>
+    <script src="assets/js/glightbox.min.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
